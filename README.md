@@ -3,7 +3,7 @@ Python and Pandas data analysis on US bike rideshare data
 
 
 # Explanation
-Python (Pandas, numpy) analysis of US bike rideshare data from three major cities in the first half of 2017.  Script allows user to step through and choose own stats to see.
+Udacity project utilizing Python (Pandas, numpy) for analysis of US bike rideshare data from three major cities in the first half of 2017.  Script allows user to step through and choose own stats to see.
 
 
 # Files
