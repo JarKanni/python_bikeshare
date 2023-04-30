@@ -9,14 +9,12 @@ Udacity project utilizing Python (Pandas, numpy) for analysis of US bike ridesha
 # Files
 ### bikeshare.py
 - analysis script analysing three .csv files
-- Pandas and Numpy imported for data cleaning and display
-
-##### Imported Libraries
-- Pandas
-- numpy
-- time
-- calendar
-
+- Pandas and Numpy used for data cleaning and display
+  ##### Imported Libraries
+  - Pandas
+  - numpy
+  - time
+  - calendar
 
 ### chicago.csv
 ##### Columns
@@ -51,6 +49,20 @@ Udacity project utilizing Python (Pandas, numpy) for analysis of US bike ridesha
   - Start Station
   - End Station
   - User Type
+
+
+# Tools
+- Python
+  - Pandas
+  - Numpy
+  - time
+  - calendar
+- .csv files
+
+
+# References
+- Udacity project
+- Masterschool program
 
 
 # Contact Information
